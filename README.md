@@ -1,16 +1,7 @@
 # riverpod_counter_change_notifier_provider
 
-A new Flutter project.
+<b>Riverpod is awesome!</b><p>
+  Here you can find an example on how to build the counter app, using just the <b>ChangeNotifier</b> and <b>ChangeNotifierProvider</b>!<br>
+Obviously you shouldn't use them to handle just a counter, but I wanted to keep the example as simple as possible! 😉
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/MirkoRaimo/riverpod_counter_change_notifier_provider/blob/master/assets/img/Example_app.png" height="800">
